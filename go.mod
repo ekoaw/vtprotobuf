@@ -1,3 +1,5 @@
+replace github.com/planetscale/vtprotobuf => /
+
 module github.com/planetscale/vtprotobuf
 
 go 1.16
